@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843682374467",
+    "project_id": "fir-demo-50688",
+    "storage_bucket": "fir-demo-50688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843682374467:android:65a714028083f024f385f6",
+        "android_client_info": {
+          "package_name": "com.inturnsala.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843682374467-riuc77f4li03476t4ahg93jlbn8dccu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQpu5VcxAvw1FcxuzS3y5Ak0uS2AlXYHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843682374467-riuc77f4li03476t4ahg93jlbn8dccu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
